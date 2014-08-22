@@ -1,0 +1,4 @@
+criptofy
+========
+
+Encrypt in NodeJS
